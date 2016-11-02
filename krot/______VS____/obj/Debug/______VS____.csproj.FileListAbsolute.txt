@@ -1,0 +1,139 @@
+C:\Users\MediaMarkt\Documents\ЯиСП задачи\ДачникVSКрот\ДачникVSКрот\bin\Debug\ДачникVSКрот.exe.config
+C:\Users\MediaMarkt\Documents\ЯиСП задачи\ДачникVSКрот\ДачникVSКрот\obj\Debug\ДачникVSКрот.csprojResolveAssemblyReference.cache
+C:\Users\MediaMarkt\Documents\ЯиСП задачи\ДачникVSКрот\ДачникVSКрот\obj\Debug\ДачникVSКрот.Form1.resources
+C:\Users\MediaMarkt\Documents\ЯиСП задачи\ДачникVSКрот\ДачникVSКрот\obj\Debug\ДачникVSКрот.Properties.Resources.resources
+C:\Users\MediaMarkt\Documents\ЯиСП задачи\ДачникVSКрот\ДачникVSКрот\obj\Debug\ДачникVSКрот.csproj.GenerateResource.Cache
+C:\Users\MediaMarkt\Documents\ЯиСП задачи\ДачникVSКрот\ДачникVSКрот\bin\Debug\ДачникVSКрот.exe
+C:\Users\MediaMarkt\Documents\ЯиСП задачи\ДачникVSКрот\ДачникVSКрот\bin\Debug\ДачникVSКрот.pdb
+C:\Users\MediaMarkt\Documents\ЯиСП задачи\ДачникVSКрот\ДачникVSКрот\obj\Debug\ДачникVSКрот.exe
+C:\Users\MediaMarkt\Documents\ЯиСП задачи\ДачникVSКрот\ДачникVSКрот\obj\Debug\ДачникVSКрот.pdb
+C:\Users\ianoo\Downloads\ДачникVSКрот\ДачникVSКрот\bin\Debug\ДачникVSКрот.exe.config
+C:\Users\ianoo\Downloads\ДачникVSКрот\ДачникVSКрот\obj\Debug\ДачникVSКрот.exe
+C:\Users\ianoo\Downloads\ДачникVSКрот\ДачникVSКрот\obj\Debug\ДачникVSКрот.pdb
+C:\Users\ianoo\Downloads\ДачникVSКрот\ДачникVSКрот\bin\Debug\ДачникVSКрот.exe
+C:\Users\ianoo\Downloads\ДачникVSКрот\ДачникVSКрот\bin\Debug\ДачникVSКрот.pdb
+C:\Users\ianoo\Downloads\ДачникVSКрот\ДачникVSКрот\obj\Debug\ДачникVSКрот.csprojResolveAssemblyReference.cache
+C:\Users\ianoo\Downloads\ДачникVSКрот\ДачникVSКрот\obj\Debug\ДачникVSКрот.Form1.resources
+C:\Users\ianoo\Downloads\ДачникVSКрот\ДачникVSКрот\obj\Debug\ДачникVSКрот.Properties.Resources.resources
+C:\Users\ianoo\Downloads\ДачникVSКрот\ДачникVSКрот\obj\Debug\ДачникVSКрот.csproj.GenerateResource.Cache
+C:\Users\ianoo\Downloads\ДачникVSКрот (1)\ДачникVSКрот\bin\Debug\ДачникVSКрот.exe.config
+C:\Users\ianoo\Downloads\ДачникVSКрот (1)\ДачникVSКрот\obj\Debug\ДачникVSКрот.exe
+C:\Users\ianoo\Downloads\ДачникVSКрот (1)\ДачникVSКрот\obj\Debug\ДачникVSКрот.pdb
+C:\Users\ianoo\Downloads\ДачникVSКрот (1)\ДачникVSКрот\bin\Debug\ДачникVSКрот.exe
+C:\Users\ianoo\Downloads\ДачникVSКрот (1)\ДачникVSКрот\bin\Debug\ДачникVSКрот.pdb
+C:\Users\ianoo\Downloads\ДачникVSКрот (1)\ДачникVSКрот\obj\Debug\ДачникVSКрот.csprojResolveAssemblyReference.cache
+C:\Users\ianoo\Downloads\ДачникVSКрот (1)\ДачникVSКрот\obj\Debug\ДачникVSКрот.Form1.resources
+C:\Users\ianoo\Downloads\ДачникVSКрот (1)\ДачникVSКрот\obj\Debug\ДачникVSКрот.Properties.Resources.resources
+C:\Users\ianoo\Downloads\ДачникVSКрот (1)\ДачникVSКрот\obj\Debug\ДачникVSКрот.csproj.GenerateResource.Cache
+C:\Users\ianoo\YandexDisk\ДачникVSКрот v2.0.0Beth\ДачникVSКрот\bin\Debug\ДачникVSКрот.exe.config
+C:\Users\ianoo\YandexDisk\ДачникVSКрот v2.0.0Beth\ДачникVSКрот\obj\Debug\ДачникVSКрот.exe
+C:\Users\ianoo\YandexDisk\ДачникVSКрот v2.0.0Beth\ДачникVSКрот\obj\Debug\ДачникVSКрот.pdb
+C:\Users\MediaMarkt\Documents\ЯиСП задачи\ДачникVSКрот v2.0.0Beth\ДачникVSКрот\bin\Debug\ДачникVSКрот.exe.config
+C:\Users\MediaMarkt\Documents\ЯиСП задачи\ДачникVSКрот v2.0.0Beth\ДачникVSКрот\obj\Debug\ДачникVSКрот.exe
+C:\Users\MediaMarkt\Documents\ЯиСП задачи\ДачникVSКрот v2.0.0Beth\ДачникVSКрот\obj\Debug\ДачникVSКрот.pdb
+C:\Users\MediaMarkt\Documents\ЯиСП задачи\ДачникVSКрот v2.0.0Beth\ДачникVSКрот\bin\Debug\ДачникVSКрот.exe
+C:\Users\MediaMarkt\Documents\ЯиСП задачи\ДачникVSКрот v2.0.0Beth\ДачникVSКрот\bin\Debug\ДачникVSКрот.pdb
+C:\Users\MediaMarkt\Documents\ЯиСП задачи\ДачникVSКрот v2.0.0Beth\ДачникVSКрот\obj\Debug\ДачникVSКрот.csprojResolveAssemblyReference.cache
+C:\Users\MediaMarkt\Documents\ЯиСП задачи\ДачникVSКрот v2.0.0Beth\ДачникVSКрот\obj\Debug\ДачникVSКрот.Form1.resources
+C:\Users\MediaMarkt\Documents\ЯиСП задачи\ДачникVSКрот v2.0.0Beth\ДачникVSКрот\obj\Debug\ДачникVSКрот.Properties.Resources.resources
+C:\Users\MediaMarkt\Documents\ЯиСП задачи\ДачникVSКрот v2.0.0Beth\ДачникVSКрот\obj\Debug\ДачникVSКрот.csproj.GenerateResource.Cache
+C:\Users\ianoo\Downloads\ДачникVSКрот v2.0.0Beth\ДачникVSКрот\bin\Debug\ДачникVSКрот.exe.config
+C:\Users\ianoo\Downloads\ДачникVSКрот v2.0.0Beth\ДачникVSКрот\obj\Debug\ДачникVSКрот.exe
+C:\Users\ianoo\Downloads\ДачникVSКрот v2.0.0Beth\ДачникVSКрот\obj\Debug\ДачникVSКрот.pdb
+C:\Users\ianoo\Downloads\ДачникVSКрот v2.0.0Beth\ДачникVSКрот\bin\Debug\ДачникVSКрот.exe
+C:\Users\ianoo\Downloads\ДачникVSКрот v2.0.0Beth\ДачникVSКрот\bin\Debug\ДачникVSКрот.pdb
+C:\Users\ianoo\Downloads\ДачникVSКрот v2.0.0Beth\ДачникVSКрот\obj\Debug\ДачникVSКрот.csprojResolveAssemblyReference.cache
+C:\Users\ianoo\Downloads\ДачникVSКрот v2.0.0Beth\ДачникVSКрот\obj\Debug\ДачникVSКрот.Form1.resources
+C:\Users\ianoo\Downloads\ДачникVSКрот v2.0.0Beth\ДачникVSКрот\obj\Debug\ДачникVSКрот.Properties.Resources.resources
+C:\Users\ianoo\Downloads\ДачникVSКрот v2.0.0Beth\ДачникVSКрот\obj\Debug\ДачникVSКрот.csproj.GenerateResource.Cache
+C:\Users\MediaMarkt\Desktop\ДачникVSКрот v2.0.0Beth\ДачникVSКрот\bin\Debug\ДачникVSКрот.exe.config
+C:\Users\MediaMarkt\Desktop\ДачникVSКрот v2.0.0Beth\ДачникVSКрот\obj\Debug\ДачникVSКрот.exe
+C:\Users\MediaMarkt\Desktop\ДачникVSКрот v2.0.0Beth\ДачникVSКрот\obj\Debug\ДачникVSКрот.pdb
+C:\Users\MediaMarkt\Desktop\ДачникVSКрот v2.0.0Beth\ДачникVSКрот\bin\Debug\ДачникVSКрот.exe
+C:\Users\MediaMarkt\Desktop\ДачникVSКрот v2.0.0Beth\ДачникVSКрот\bin\Debug\ДачникVSКрот.pdb
+C:\Users\MediaMarkt\Desktop\ДачникVSКрот v2.0.0Beth\ДачникVSКрот\obj\Debug\ДачникVSКрот.csprojResolveAssemblyReference.cache
+C:\Users\MediaMarkt\Desktop\ДачникVSКрот v2.0.0Beth\ДачникVSКрот\obj\Debug\ДачникVSКрот.Form1.resources
+C:\Users\MediaMarkt\Desktop\ДачникVSКрот v2.0.0Beth\ДачникVSКрот\obj\Debug\ДачникVSКрот.Properties.Resources.resources
+C:\Users\MediaMarkt\Desktop\ДачникVSКрот v2.0.0Beth\ДачникVSКрот\obj\Debug\ДачникVSКрот.csproj.GenerateResource.Cache
+G:\yaisp\krot\______VS____\bin\Debug\ДачникVSКрот.exe.config
+G:\yaisp\krot\______VS____\bin\Debug\ДачникVSКрот.exe
+G:\yaisp\krot\______VS____\bin\Debug\ДачникVSКрот.pdb
+G:\yaisp\krot\______VS____\bin\Debug\mscorlib.dll
+G:\yaisp\krot\______VS____\bin\Debug\System.Data.dll
+G:\yaisp\krot\______VS____\bin\Debug\System.Transactions.dll
+G:\yaisp\krot\______VS____\bin\Debug\System.EnterpriseServices.dll
+G:\yaisp\krot\______VS____\bin\Debug\System.Web.dll
+G:\yaisp\krot\______VS____\bin\Debug\System.Data.OracleClient.dll
+G:\yaisp\krot\______VS____\bin\Debug\normidna.nlp
+G:\yaisp\krot\______VS____\bin\Debug\normnfc.nlp
+G:\yaisp\krot\______VS____\bin\Debug\normnfd.nlp
+G:\yaisp\krot\______VS____\bin\Debug\normnfkc.nlp
+G:\yaisp\krot\______VS____\bin\Debug\normnfkd.nlp
+G:\yaisp\krot\______VS____\bin\Debug\System.EnterpriseServices.Wrapper.dll
+G:\yaisp\krot\______VS____\obj\Debug\ResolveAssemblyReference.cache
+G:\yaisp\krot\______VS____\obj\Debug\ДачникVSКрот.Form1.resources
+G:\yaisp\krot\______VS____\obj\Debug\ДачникVSКрот.Properties.Resources.resources
+G:\yaisp\krot\______VS____\obj\Debug\GenerateResource.read.1.tlog
+G:\yaisp\krot\______VS____\obj\Debug\GenerateResource.write.1.tlog
+G:\yaisp\krot\______VS____\obj\Debug\ДачникVSКрот.exe
+G:\yaisp\krot\______VS____\obj\Debug\ДачникVSКрот.pdb
+E:\krot\______VS____\bin\Debug\ДачникVSКрот.exe.config
+E:\krot\______VS____\obj\Debug\ДачникVSКрот.exe
+E:\krot\______VS____\obj\Debug\ДачникVSКрот.pdb
+E:\krot\______VS____\bin\Debug\ДачникVSКрот.exe
+E:\krot\______VS____\bin\Debug\ДачникVSКрот.pdb
+E:\krot\______VS____\obj\Debug\______VS____.csprojResolveAssemblyReference.cache
+E:\krot\______VS____\obj\Debug\ДачникVSКрот.Form1.resources
+E:\krot\______VS____\obj\Debug\ДачникVSКрот.Properties.Resources.resources
+E:\krot\______VS____\obj\Debug\______VS____.csproj.GenerateResource.Cache
+E:\krot\______VS____\bin\Debug\PlugIn.dll
+E:\krot\______VS____\bin\Debug\PlugIn.pdb
+E:\krot\______VS____\bin\Debug\MyPlugin.dll
+E:\krot\______VS____\bin\Debug\MyPlugin.pdb
+D:\Документы\Задачи\ЯиСП\krot\______VS____\bin\Debug\ДачникVSКрот.exe.config
+D:\Документы\Задачи\ЯиСП\krot\______VS____\obj\Debug\ДачникVSКрот.pdb
+D:\Документы\Задачи\ЯиСП\krot\______VS____\bin\Debug\ДачникVSКрот.exe
+D:\Документы\Задачи\ЯиСП\krot\______VS____\bin\Debug\ДачникVSКрот.pdb
+D:\Документы\Задачи\ЯиСП\krot\______VS____\bin\Debug\MyPlugin.dll
+D:\Документы\Задачи\ЯиСП\krot\______VS____\bin\Debug\PlugIn.dll
+D:\Документы\Задачи\ЯиСП\krot\______VS____\bin\Debug\MyPlugin.pdb
+D:\Документы\Задачи\ЯиСП\krot\______VS____\bin\Debug\PlugIn.pdb
+D:\Документы\Задачи\ЯиСП\krot\______VS____\obj\Debug\______VS____.csprojResolveAssemblyReference.cache
+D:\Документы\Задачи\ЯиСП\krot\______VS____\obj\Debug\ДачникVSКрот.Form1.resources
+D:\Документы\Задачи\ЯиСП\krot\______VS____\obj\Debug\ДачникVSКрот.Properties.Resources.resources
+D:\Документы\Задачи\ЯиСП\krot\______VS____\obj\Debug\______VS____.csproj.GenerateResource.Cache
+D:\Документы\Задачи\ЯиСП\krot\______VS____\obj\Debug\ДачникVSКрот.exe
+D:\Документы\Универ\Задачи\ЯиСП\krot\______VS____\bin\Debug\ДачникVSКрот.exe.config
+D:\Документы\Универ\Задачи\ЯиСП\krot\______VS____\obj\Debug\ДачникVSКрот.exe
+D:\Документы\Универ\Задачи\ЯиСП\krot\______VS____\obj\Debug\ДачникVSКрот.pdb
+D:\Документы\Универ\Задачи\ЯиСП\krot\______VS____\bin\Debug\ДачникVSКрот.exe
+D:\Документы\Универ\Задачи\ЯиСП\krot\______VS____\bin\Debug\ДачникVSКрот.pdb
+D:\Документы\Универ\Задачи\ЯиСП\krot\______VS____\bin\Debug\MyPlugin.dll
+D:\Документы\Универ\Задачи\ЯиСП\krot\______VS____\bin\Debug\PlugIn.dll
+D:\Документы\Универ\Задачи\ЯиСП\krot\______VS____\bin\Debug\MyPlugin.pdb
+D:\Документы\Универ\Задачи\ЯиСП\krot\______VS____\bin\Debug\PlugIn.pdb
+D:\Документы\Универ\Задачи\ЯиСП\krot\______VS____\obj\Debug\______VS____.csprojResolveAssemblyReference.cache
+D:\Документы\Универ\Задачи\ЯиСП\krot\______VS____\obj\Debug\ДачникVSКрот.Form1.resources
+D:\Документы\Универ\Задачи\ЯиСП\krot\______VS____\obj\Debug\ДачникVSКрот.Properties.Resources.resources
+D:\Документы\Универ\Задачи\ЯиСП\krot\______VS____\obj\Debug\______VS____.csproj.GenerateResource.Cache
+G:\krot\______VS____\bin\Debug\ДачникVSКрот.exe.config
+G:\krot\______VS____\obj\Debug\ДачникVSКрот.exe
+G:\krot\______VS____\obj\Debug\ДачникVSКрот.pdb
+C:\Users\pasha\Desktop\krot\______VS____\bin\Debug\ДачникVSКрот.exe.config
+C:\Users\pasha\Desktop\krot\______VS____\obj\Debug\ДачникVSКрот.exe
+C:\Users\pasha\Desktop\krot\______VS____\obj\Debug\ДачникVSКрот.pdb
+C:\Users\pasha\Desktop\krot\______VS____\bin\Debug\ДачникVSКрот.exe
+C:\Users\pasha\Desktop\krot\______VS____\bin\Debug\ДачникVSКрот.pdb
+C:\Users\pasha\Desktop\krot\______VS____\obj\Debug\______VS____.csprojResolveAssemblyReference.cache
+C:\Users\pasha\Desktop\krot\______VS____\obj\Debug\ДачникVSКрот.Form1.resources
+C:\Users\pasha\Desktop\krot\______VS____\obj\Debug\ДачникVSКрот.Properties.Resources.resources
+C:\Users\pasha\Desktop\krot\______VS____\obj\Debug\______VS____.csproj.GenerateResource.Cache
+C:\Users\Zver\Desktop\krot\______VS____\bin\Debug\ДачникVSКрот.exe.config
+C:\Users\Zver\Desktop\krot\______VS____\obj\Debug\ДачникVSКрот.exe
+C:\Users\Zver\Desktop\krot\______VS____\obj\Debug\ДачникVSКрот.pdb
+C:\Users\Zver\Desktop\krot\______VS____\bin\Debug\ДачникVSКрот.exe
+C:\Users\Zver\Desktop\krot\______VS____\bin\Debug\ДачникVSКрот.pdb
+C:\Users\Zver\Desktop\krot\______VS____\obj\Debug\______VS____.csprojResolveAssemblyReference.cache
+C:\Users\Zver\Desktop\krot\______VS____\obj\Debug\ДачникVSКрот.Form1.resources
+C:\Users\Zver\Desktop\krot\______VS____\obj\Debug\ДачникVSКрот.Properties.Resources.resources
+C:\Users\Zver\Desktop\krot\______VS____\obj\Debug\______VS____.csproj.GenerateResource.Cache
